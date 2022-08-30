@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 4811716449836884214}
   m_Layer: 0
   m_Name: OutTrigger
-  m_TagString: Finish
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

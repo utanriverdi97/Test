@@ -65,11 +65,136 @@
      <Compile Include="Assets\Plugins\Demigiant\DOTweenPro\DOTweenDeAudio.cs" />
      <Compile Include="Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
      <Compile Include="Assets\Plugins\Demigiant\DOTweenPro\DOTweenDeUnityExtended.cs" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\SG2_Template_URP.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Triplanar Sampling.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Dissolve.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_Behind_SM2.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_VertexDisplacement.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Outline.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Stylized Water.shader" />
+     <None Include="Assets\Plugins\PaintIn3D\InGame\Examples\Shaders\P3D Skybox.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Detail Texture Simple.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_Main.cginc" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_DepthTexture.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Specular_OutlineBlending.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Vertex Color Albedo.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_MatCap.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\HSV.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Old School.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Dissolve.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline Blended (Specular).shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Animated Dissolve.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <None Include="Assets\Plugins\Demigiant\readme_DOTweenPro.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_OutlineBlending.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline (Specular).shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\PBS\Sketch.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Texture Blending.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_ShadowHSV.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_OutlineBlending.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Water.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\SG2_Template_Default.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Snow Accumulation.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_OutlineOnly Blended.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_NdotL Stylization.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Water.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Comic Book.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_CurvedWorld.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_Core.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Specular.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Wind.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_SurfacePBS.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\!ToonyColorsPro Readme.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_Specular_OutlineBlending.shader" />
      <None Include="Assets\Plugins\Lean\READ ME.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_Outline.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_OutlineOnly SM2.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Ramp Shading LWRP.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Include.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_Desktop.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Hologram.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Hybrid\TCP2 Hybrid Include.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_OutlineOnly Blended SM2.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Realistic.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_Include.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_AlbedoHSV.txt" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_Behind.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Normal Mapping.txt" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\PBS\Blended Outline.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_VertExmotion.txt" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Subsurface Scattering.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Vertical Fog.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Water WindWaker2.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Water_CurvedWorld.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\PBS\Hand Painted.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_Stencil.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Ramp Shading.txt" />
      <None Include="Assets\Plugins\Demigiant\DOTweenPro\readme.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\SG2_Template_LWRP.txt" />
+     <None Include="Assets\Plugins\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline Blended.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Sketch.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Include\TCP2_Outline_SM2.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Aura2.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Reflection.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Lava.shader" />
      <None Include="Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.xml" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Screen Space UV.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Hash Functions.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Terrain.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Default_CurvedWorld.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Triplanar.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_PBS.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Default\Sketch.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_ShadowMeta.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_Mobile.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Lava Cartoon.shader" />
      <None Include="Assets\Plugins\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\PBS\Outline Behind.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_HSV.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Hybrid\TCP2 Hybrid URP Support.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS (Specular).shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Outline.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_Specular_Outline.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Rim Lighting.txt" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Mobile_Specular_Outline.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Subsurface Scattering.txt" />
+     <None Include="Assets\Plugins\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_NoTile Sampling.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_BRDF.cginc" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\Variants Base\TCP2_Desktop_Specular.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Legacy\TCP2_OutlineOnly.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Water WindWaker.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_CustomAmbient.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Wind Animation.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Default.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\Water\Poison.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Hybrid\TCP2 Hybrid Shader.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Specular.txt" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders Generated\Examples\SG2\Detail Texture.shader" />
+     <None Include="Assets\Plugins\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shaders\Hybrid\TCP2 Hybrid Shader Outline.shader" />
+     <None Include="Assets\Plugins\JMO Assets\Toony Colors Pro\Shader Templates 2\Modules\Module_Reflection.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -686,6 +811,22 @@
     <ProjectReference Include="LeanCommon.csproj">
       <Project>{d7c9a94e-9e4a-5a08-d013-5672a92b6b82}</Project>
       <Name>LeanCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{b03e45eb-76d6-1e04-5126-ec77133d47eb}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Runtime.csproj">
+      <Project>{170a276f-0be9-1521-578d-9f6ced564307}</Project>
+      <Name>ToonyColorsPro.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Editor.csproj">
+      <Project>{269c564d-e751-4985-de00-eca6a53c6e32}</Project>
+      <Name>ToonyColorsPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro2.Demo.csproj">
+      <Project>{cc49666a-b63b-cfae-b2eb-2dae30fc0796}</Project>
+      <Name>ToonyColorsPro2.Demo</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

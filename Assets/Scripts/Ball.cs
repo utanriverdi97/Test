@@ -15,14 +15,9 @@ public class Ball : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.CompareTag("Respawn"))
+        if (other.gameObject.CompareTag("Ground"))
         { 
             GetComponent<SphereCollider>().material.dynamicFriction = 999;
         }
-    }
-
-    private void FixedUpdate()
-    {
-        //rb.velocity=Vector3.down*5;
     }
 }

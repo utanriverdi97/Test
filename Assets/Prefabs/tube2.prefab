@@ -113,7 +113,7 @@ GameObject:
   - component: {fileID: 4376031299340933812}
   m_Layer: 0
   m_Name: OutTrigger
-  m_TagString: Finish
+  m_TagString: Exit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

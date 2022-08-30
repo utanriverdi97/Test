@@ -730,6 +730,22 @@
       <Project>{d7c9a94e-9e4a-5a08-d013-5672a92b6b82}</Project>
       <Name>LeanCommon</Name>
     </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{b03e45eb-76d6-1e04-5126-ec77133d47eb}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Runtime.csproj">
+      <Project>{170a276f-0be9-1521-578d-9f6ced564307}</Project>
+      <Name>ToonyColorsPro.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Editor.csproj">
+      <Project>{269c564d-e751-4985-de00-eca6a53c6e32}</Project>
+      <Name>ToonyColorsPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro2.Demo.csproj">
+      <Project>{cc49666a-b63b-cfae-b2eb-2dae30fc0796}</Project>
+      <Name>ToonyColorsPro2.Demo</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
