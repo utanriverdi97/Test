@@ -1507,7 +1507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aaf2d5d912ecfb478e4b8077ff800d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensitivity: 30
+  sensitivity: 20
   smoothness: 0.92
 --- !u!4 &1306584823
 Transform:
